@@ -66,6 +66,6 @@
 <b><i>NBA.com</i></b><br>
 &nbsp;&nbsp;&nbsp; [Traditional Box Score](https://www.nba.com/stats/teams/boxscores-traditional?SeasonType=Regular+Season&Season=2023-24) <br>
 &nbsp;&nbsp;&nbsp; [NBA Stats Glossary](https://www.nba.com/stats/help/glossary)
-# CONCLUSION 
+# CONCLUSIONS: 
 • Atlanta Hawks' 2-point shots attempted is strongest with correlation coefficient: .400 <br> 
 • Golden Warriors' 3-point shots attempted is strongest with correlation coefficient: 0.354
